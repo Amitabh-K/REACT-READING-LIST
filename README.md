@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/REACT-READING-LIST.svg)](http://hits.dwyl.com/Amitabh-K/REACT-READING-LIST)
+
 # REACT-READING-LIST
 This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
 
